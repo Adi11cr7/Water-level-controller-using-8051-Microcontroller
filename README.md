@@ -11,7 +11,8 @@
 
 
  
-<li><b>Hardware and software requirements:</b></li>
+<b>Hardware and software requirements:</b>
+
   <li>AT89C51 Microcontroller (or any 8051 based Microcontroller) [1].</li>  
   <li>8051 Programmer (Programming Board) </li> 
   <li>11.0592 MHz Quartz Crystal  </li>
@@ -34,7 +35,9 @@
   <li>Willar Software (for burning code)</li>
   <li>Proteus (for circuit diagram)</li>
   
-<li><b>Water Level Controller using 8051 Circuit Principle</b></li>
+  
+  
+<b>Water Level Controller using 8051 Circuit Principle</b>
 This system mainly works on a principle that “water conducts electricity”. The four wires which are dipped into the tank will indicate the different water levels. Based on the outputs of these wires, microcontroller displays water level on LCD as well as controls the motor.
 Initially when the tank is empty, LCD will display the message LOW and motor runs automatically. When water level reaches to half level, now LCD displays HALF and still motor runs.
 When the tank is full, LCD displays FULL and motor automatically stops. Again, the motor runs when water level in the tank becomes LOW.
@@ -47,7 +50,9 @@ The Collector terminals of the Transistors are connected to VCC and the Emitter 
 PORT1 of the microcontroller is connected to the data pins of LCD and the control pins RS, RW and EN of the LCD Display are connected to the P3.6, GND and P3.7 respectively.  
 For demonstration purpose, we have used a simple DC Motor Pump. It is connected to the Relay and the input to the relay is fed from P0.7 through a transistor.  
 
-<li><b>Algorithm for Water Level Controller Circuit </b></li>
+
+
+<b>Algorithm for Water Level Controller Circuit </b>
  <li>First configure the controller pins P0.0, P0.1 and P0.2 as inputs and P0.7 as output.</li>
  <li>Now, initialize the LCD.</li>
  <li>Continuously check the water level input pins P0.0, P0.1 and P0.2.</li>                                                            <li>If all the pins are low, then display tank as “EMPTY” on the LCD and make P0.7 pin HIGH to run the motor automatically.</li>
@@ -58,20 +63,20 @@ For demonstration purpose, we have used a simple DC Motor Pump. It is connected 
 
 
 
-<li><b>Circuit diagram:</b></li>
+<b>Circuit diagram:</b>
  <img src="Water level controller.jpeg">
-  <li><b>Water Level Controller Circuit Advantages</b></li>
-•	Human effort is reduced as the system controls the motor automatically based on the water level.
+  <b>Water Level Controller Circuit Advantages</b>
+<li>Human effort is reduced as the system controls the motor automatically based on the water level.<li>
   
-•	This system consumes less power.
+<li>This system consumes less power.</li>
 
-•	Simple and more reliable
+<li>Simple and more reliable</li>
 
 
-<li><b>Applications of Water Level Controller Circuit using 8051</b></li>
-•	Used in big buildings where the manual monitoring is difficult.
+<b>Applications of Water Level Controller Circuit using 8051</b>
+<li>Used in big buildings where the manual monitoring is difficult.</li>
 
-•	Used in industries to control the liquid level automatically.
+<li>Used in industries to control the liquid level automatically.</li>
 
 
 
