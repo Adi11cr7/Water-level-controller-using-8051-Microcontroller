@@ -123,4 +123,5 @@ For demonstration purpose, we have used a simple DC Motor Pump. It is connected 
 
 <img src="Water level controller simulation.png">
 
+We have to execute our program in a software(Keil) and then have to upload the generated .hex file into the microcontroller.
 
