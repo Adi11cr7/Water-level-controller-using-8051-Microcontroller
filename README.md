@@ -1,13 +1,14 @@
 # Water-level-controller-using-8051-Microcontroller
 
-Introduction:
-      This project will help us in controlling the water motor by sensing the water level in a tank automatically. Here we should know how to detect and control the water level in an overhead tank or any container. This system monitors the water level of the tank and automatically switches ON the motor whenever tank is empty.
-        The motor is switched OFF when the overhead tank or container is FULL. Here, the water level of the tank is indicated on LCD (Liquid crystal Display). Using this system, we can avoid the overflow of the water.
+# Introduction:
+  This project will help us in controlling the water motor by sensing the water level in a tank automatically. Here we should know how to detect and control the water level in an overhead tank or any container. This system monitors the water level of the tank and automatically switches ON the motor whenever tank is empty.
+        
+   The motor is switched OFF when the overhead tank or container is FULL. Here, the water level of the tank is indicated on LCD (Liquid crystal Display). Using this system, we can avoid the overflow of the water.
          Water is commonly used for agriculture, industry, and domestic consumption. Therefore, efficient use and water monitoring are potential constraint for home or office water management system. The existing automated method of level detection is described and that can be used to make a device on/off.
 
-        Proper monitoring is needed to ensure water sustainability is actually being reached, with disbursement linked to sensing and automation. Such programmatic approach entails microcontroller based automated water level sensing and controlling.
+  Proper monitoring is needed to ensure water sustainability is actually being reached, with disbursement linked to sensing and automation. Such programmatic approach entails microcontroller based automated water level sensing and controlling.
 
-        Water, one of the great natural resources should be utilized in proper form. But a huge amount of water is being wasted during daily life due to lack of control. Our proposed system guarantees to accumulate a good amount of usable water every day.
+  Water, one of the great natural resources should be utilized in proper form. But a huge amount of water is being wasted during daily life due to lack of control. Our proposed system guarantees to accumulate a good amount of usable water every day.
 
 
  
