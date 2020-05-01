@@ -12,16 +12,14 @@
 
  
 <li><b>Hardware and software requirements:</b></li>
-•	AT89C51 Microcontroller (or any 8051 based Microcontroller) [1].
-•	8051 Programmer (Programming Board)
-•	11.0592 MHz Quartz Crystal
-•	2 x 33pF Capacitor 
-•	LCD 
-•	2 x 10KΩ Resistor (1/4 Watt)
-
-•	10µF Capacitor
-
-•	Push Button
+•	AT89C51 Microcontroller (or any 8051 based Microcontroller) [1].  
+•	8051 Programmer (Programming Board)  
+•	11.0592 MHz Quartz Crystal  
+•	2 x 33pF Capacitor   
+•	LCD  
+•	2 x 10KΩ Resistor (1/4 Watt)  
+•	10µF Capacitor   
+•	Push Button   
 •	1KΩ x 8 Resistor Pack (for Pull – up)
 •	16 x 2 LCD Display
 •	5V Relay
