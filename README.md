@@ -64,7 +64,11 @@ For demonstration purpose, we have used a simple DC Motor Pump. It is connected 
 
 
 <b>Circuit diagram:</b>
+
+
  <img src="Water level controller.jpeg">
+ 
+ 
   <b>Water Level Controller Circuit Advantages</b>
 <li>Human effort is reduced as the system controls the motor automatically based on the water level.<li>
   
