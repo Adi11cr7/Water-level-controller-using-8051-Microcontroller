@@ -47,6 +47,7 @@ When the tank is full, LCD displays FULL and motor automatically stops. Again, t
 
 
 
+
 <b>How to Design Circuit for Water Level Controller using 8051 Microcontroller?</b>
 
 The heart of the Water Level Controller using 8051 Microcontroller project is the AT89C51 Microcontroller. The water level probes are connected to the P0.0, P0.1 and P0.2 through the transistors (they are connected to the base of the transistors through corresponding current limiting resistors). P0.0 for LOW level, P0.1 for HALF Level and P0.2 for HIGH Level.  
@@ -56,6 +57,7 @@ The Collector terminals of the Transistors are connected to VCC and the Emitter 
 PORT1 of the microcontroller is connected to the data pins of LCD and the control pins RS, RW and EN of the LCD Display are connected to the P3.6, GND and P3.7 respectively.  
 
 For demonstration purpose, we have used a simple DC Motor Pump. It is connected to the Relay and the input to the relay is fed from P0.7 through a transistor.  
+
 
 
 
@@ -86,10 +88,12 @@ For demonstration purpose, we have used a simple DC Motor Pump. It is connected 
 
 
 
+
 <b>Applications of Water Level Controller Circuit using 8051</b>
 <li>Used in big buildings where the manual monitoring is difficult.</li>
 
 <li>Used in industries to control the liquid level automatically.</li>
+
 
 
 
