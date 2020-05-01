@@ -70,7 +70,7 @@ For demonstration purpose, we have used a simple DC Motor Pump. It is connected 
  
  
   <b>Water Level Controller Circuit Advantages</b>
-<li>Human effort is reduced as the system controls the motor automatically based on the water level.<li>
+<li>Human effort is reduced as the system controls the motor automatically based on the water level.</li>
   
 <li>This system consumes less power.</li>
 
@@ -84,17 +84,28 @@ For demonstration purpose, we have used a simple DC Motor Pump. It is connected 
 
 
 
-<li><b>How to Operate Water Level Controller Circuit using 8051 Microcontroller? </b></li>
+<b>How to Operate Water Level Controller Circuit using 8051 Microcontroller? </b>
+
 1.	Initially, write the program for Water Level Controller in Keil µVision IDE and generate the .hex file.
+
 2.	Burn the program (.hex file) to the microcontroller using external programmer and Willar Software.
+
 3.	Now give the connections as per the circuit diagram.
+
 4.	While giving the connections, make sure that there is no common connection between AC and DC supplies (if you are using an AC Motor)
+
 5.	Place the 4 water level indicating wires into the small tank (3 probes for three different levels and fourth one for common supply)
+
 6.	Switch on the supply. Now, the motor will run automatically as there is no water in the tank. (It will turn on even if the water level is LOW).
+
 7.	Now pour the water, when it reaches LOW level, then LCD displays LOW.
+
 8.	For middle level, it will display as HALF on the LCD.
+
 9.	Still if you pour the water, then the water level reaches full and the LCD displays FULL and also the motor is turned OFF automatically.
+
 10.	Switch off the motor supply and board supply.
+
 
 
 
