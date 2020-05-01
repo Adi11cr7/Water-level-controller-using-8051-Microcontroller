@@ -1,6 +1,6 @@
 # Water-level-controller-using-8051-Microcontroller
 
-# Introduction:
+<li><b>Introduction:</b></li>
   This project will help us in controlling the water motor by sensing the water level in a tank automatically. Here we should know how to detect and control the water level in an overhead tank or any container. This system monitors the water level of the tank and automatically switches ON the motor whenever tank is empty.
         
    The motor is switched OFF when the overhead tank or container is FULL. Here, the water level of the tank is indicated on LCD (Liquid crystal Display). Using this system, we can avoid the overflow of the water.
