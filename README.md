@@ -119,8 +119,8 @@ For demonstration purpose, we have used a simple DC Motor Pump. It is connected 
 
 10.	Switch off the motor supply and board supply.
 
+<li><b>Circuit Simulation in Proteus software</b></li>
 
-
-
+<img src="Water level controller simulation.png">
 
 
