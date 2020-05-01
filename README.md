@@ -3,8 +3,7 @@
 <li><b>Introduction:</b></li>
   This project will help us in controlling the water motor by sensing the water level in a tank automatically. Here we should know how to detect and control the water level in an overhead tank or any container. This system monitors the water level of the tank and automatically switches ON the motor whenever tank is empty.
         
-   The motor is switched OFF when the overhead tank or container is FULL. Here, the water level of the tank is indicated on LCD (Liquid crystal Display). Using this system, we can avoid the overflow of the water.
-         Water is commonly used for agriculture, industry, and domestic consumption. Therefore, efficient use and water monitoring are potential constraint for home or office water management system. The existing automated method of level detection is described and that can be used to make a device on/off.
+  The motor is switched OFF when the overhead tank or container is FULL. Here, the water level of the tank is indicated on LCD (Liquid crystal Display). Using this system, we can avoid the overflow of the water.Water is commonly used for agriculture, industry, and domestic consumption. Therefore, efficient use and water monitoring are potential constraint for home or office water management system. The existing automated method of level detection is described and that can be used to make a device on/off.
 
   Proper monitoring is needed to ensure water sustainability is actually being reached, with disbursement linked to sensing and automation. Such programmatic approach entails microcontroller based automated water level sensing and controlling.
 
@@ -12,14 +11,21 @@
 
 
  
-Hardware and software requirements:
+<li><b>Hardware and software requirements:</b></li>
 •	AT89C51 Microcontroller (or any 8051 based Microcontroller) [1].
+
 •	8051 Programmer (Programming Board)
+
 •	11.0592 MHz Quartz Crystal
+
 •	2 x 33pF Capacitor
+
 •	LCD
+
 •	2 x 10KΩ Resistor (1/4 Watt)
+
 •	10µF Capacitor
+
 •	Push Button
 •	1KΩ x 8 Resistor Pack (for Pull – up)
 •	16 x 2 LCD Display
