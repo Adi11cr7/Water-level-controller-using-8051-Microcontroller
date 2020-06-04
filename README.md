@@ -37,6 +37,7 @@
   <li>Programming cable</li>
   <li>Connecting wires</li>
   <li>Power Supply</li>
+  <li>Buzzer</li>
   <li>Keil µVision IDE</li>
   <li>Willar Software (for burning code)</li>
   <li>Proteus (for circuit diagram)</li><br>
