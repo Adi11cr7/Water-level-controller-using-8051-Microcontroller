@@ -114,10 +114,11 @@ For demonstration purpose, we have used a simple DC Motor Pump. It is connected 
 <img src="Water level controller simulation.png"><br>
 <li><b>2. Collabing Rain water detection</b></li><br>
 <b>Circuit diagram of Rain water detection</b>
-<img src="Circuit-Diagram-8051-Microcontroller-Based-Rain-Detector.gif">
+<img src="Circuit-Diagram-8051-Microcontroller-Based-Rain-Detector.jpg">
 <b> Improved simulation circuit</b> 
 <img src="Water level controller with rain water detection.png">
 
-We have to execute our program in a software(Keil) and then have to upload the generated .hex file into the microcontroller.
-
+We have to execute our program in a software(Keil) and then have to upload the generated .hex file into the microcontroller, after doing we have to run our simulation. By doing so, we will get the output as shown below.
+<img src="Water level controller with rain water detection output1.png">
+<img src="Water level controller with rain water detection output2.png">
 </p>
