@@ -71,7 +71,7 @@ For demonstration purpose, we have used a simple DC Motor Pump. It is connected 
 <b>Circuit diagram:</b><br>
 
 
- <img src="Water level controller.jpeg">
+ <img src="Water level controller.jpg">
  
  
  
