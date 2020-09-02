@@ -2,7 +2,7 @@
 # Abstract
  <p> The main theme of our project is to save water, in addition to water level controlling in the tank, we will open the cap of the tank if we dectect the rain water and not only these, we have added another feature to our device by adding buzzer(alarm), so that it gives alarm when rain falls which help to bring back the items(clothes, eatables, etc.) that we have kept in sun light for drying.<br>
   <br>
- <b> Link to the research paper: <a href="">Click here for Paper</a>
+ <b> Link to the research paper: <a href="Paper on Rain detection & Water level controlling.pdf">Click here for Paper</a>
   <b>Dividing project into parts for simplicity:</b><br>
   <br>
       1. Water level controller<br>
